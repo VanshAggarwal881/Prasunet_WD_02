@@ -1,4 +1,4 @@
-# Prasunet_WD_02
+# To create a stopwatch web application, it is needed to have a solid understanding of several web development concepts and technologies. Below is a detailed breakdown of the knowledge and skills that are acquired:
 # Fundamental Knowledge and Skills
 # ---------------------------------------------------------
 HTML (Hypertext Markup Language)......................................
